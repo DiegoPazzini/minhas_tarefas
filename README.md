@@ -7,7 +7,7 @@ Também foi utilizando nesse projeto a biblioteca Styled Components para estiliz
 
 <h1>Visualização Online</h1>
 A landing page do projeto está disponível para visualização na Vercel. Você pode acessá-la através do seguinte link:
-Página com informações do Github: https://minhas-tarefas-sooty.vercel.app/
+https://minhas-tarefas-sooty.vercel.app/
 
 <h2>
     Pré-visualização
